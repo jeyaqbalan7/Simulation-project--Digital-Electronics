@@ -21,12 +21,13 @@ to optimize digital systems efficiently. The Karnaugh map is widely used in fiel
 engineering, digital electronics, and computer science to achieve optimal logic circuit design.
 
 # LOGIC DIAGRAM
-(https://github.com/jeyaqbalan7/Simulation-project--Digital-Electronics/assets/119393851/86ad76a8-d688-4c75-9d40-f4d445af49e0)
+![Screenshot 2023-06-22 133917](https://github.com/jeyaqbalan7/Simulation-project--Digital-Electronics/assets/119393851/e8499f5a-190b-4d54-927a-6406c75671a4)
 
 # NETLIST DIAGRAM
-![Screenshot 2023-06-22 134203](https://github.com/jeyaqbalan7/Simulation-project--Digital-Electronics/assets/119393851/54c05fd8-f96a-476e-b6c6-0ccf486c19e0)
+![Screenshot 2023-06-22 133917](https://github.com/jeyaqbalan7/Simulation-project--Digital-Electronics/assets/119393851/e8499f5a-190b-4d54-927a-6406c75671a4)
 
 # TIMING DIAGRAM
+![Screenshot 2023-06-22 134203](https://github.com/jeyaqbalan7/Simulation-project--Digital-Electronics/assets/119393851/54c05fd8-f96a-476e-b6c6-0ccf486c19e0)
 
 # PROGRAM
 ```
