@@ -1,4 +1,5 @@
 # TITTLE
+F(A,B,C,D) =   ∑m(0,2,8,10,12,13,14,15)+∑d(5,7)   Simplify and implement using verilog                                                      
 
 # THEORY
 
