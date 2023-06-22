@@ -42,5 +42,3 @@ and(q,bdash,ddash);
 or(f,p,q);
 endmodule
 ```
-
-# REFERENCE
