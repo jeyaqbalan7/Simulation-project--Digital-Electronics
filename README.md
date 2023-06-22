@@ -42,3 +42,7 @@ and(q,bdash,ddash);
 or(f,p,q);
 endmodule
 ```
+
+### SIMPLIFICATION
+![image](https://github.com/jeyaqbalan7/Simulation-project--Digital-Electronics/assets/119393851/22712460-ce52-4d30-8ca6-1c9421020048)
+
